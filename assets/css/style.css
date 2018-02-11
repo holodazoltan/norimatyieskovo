@@ -546,6 +546,12 @@ section.story {
 	background-color: #f4f4f4;
 	color: #fff;
 }
+section.story .img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
 
 /* _____________________________________
 
