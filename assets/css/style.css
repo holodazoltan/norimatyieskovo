@@ -405,7 +405,7 @@ section.hero .content h2 {
 	margin-top: 0;
 }
 section.hero .content span {
-	font-size: 20px;
+	font-size: 40px;
 }
 .ico {
 	text-align: center;
@@ -540,7 +540,7 @@ section.story {
 	display: table;
 	margin: 0;
 	width: 100%;
-	height: 120%;
+	height: 80%;
 	min-height: 320px;
 	position: relative;
 	background-color: #f4f4f4;
@@ -800,6 +800,10 @@ section.bottom {
 .bottom .content .dta h4 {
 	font-size: 27px;
 	font-family: 'Pacifico', cursive;
+}
+.bottom .content .dta h3 {
+	font-size: 40px;
+	text-transform: uppercase;
 }
 .bottom .content .dta h2 {
 	font-size: 75px;
