@@ -396,26 +396,16 @@ section.hero .content {
 }
 section.hero .content h4 {
 	font-size: 27px;
-	font-family: Playfair+Display;
-    color: #fff;	
-    -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
-    -moz-animation: neon1 1.5s ease-in-out infinite alternate;
-    animation: neon1 1.5s ease-in-out infinite alternate;
+	font-family: 'Pacifico', cursive;
 }
 section.hero .content h2 {
 	font-size: 75px;
-	font-family: Playfair+Display;
-    color: #fff;
-    -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
-    -moz-animation: neon1 1.5s ease-in-out infinite alternate;
-    animation: neon1 1.5s ease-in-out infinite alternate;
+	font-family: 'Playfair Display', serif;
+	font-weight: 900;
+	margin-top: 0;
 }
 section.hero .content span {
 	font-size: 40px;
-    color: #fff;
-    -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
-    -moz-animation: neon1 1.5s ease-in-out infinite alternate;
-    animation: neon1 1.5s ease-in-out infinite alternate;
 }
 .ico {
 	text-align: center;
@@ -458,33 +448,6 @@ section.hero .content span {
 }
 .owl-carousel.owl-full-width .slide img {
 	display: none;
-}
-
-@-webkit-keyframes neon1 {
-  from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #FF1177, 0 0 70px #FF1177, 0 0 80px #FF1177, 0 0 100px #FF1177, 0 0 150px #FF1177;
-  }
-  to {
-    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #FF1177, 0 0 35px #FF1177, 0 0 40px #FF1177, 0 0 50px #FF1177, 0 0 75px #FF1177;
-  }
-}
-
-@-moz-keyframes neon1 {
-  from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #FF1177, 0 0 70px #FF1177, 0 0 80px #FF1177, 0 0 100px #FF1177, 0 0 150px #FF1177;
-  }
-  to {
-    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #FF1177, 0 0 35px #FF1177, 0 0 40px #FF1177, 0 0 50px #FF1177, 0 0 75px #FF1177;
-  }
-}
-
-@keyframes neon1 {
-  from {
-    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #FF1177, 0 0 70px #FF1177, 0 0 80px #FF1177, 0 0 100px #FF1177, 0 0 150px #FF1177;
-  }
-  to {
-    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #FF1177, 0 0 35px #FF1177, 0 0 40px #FF1177, 0 0 50px #FF1177, 0 0 75px #FF1177;
-  }
 }
 /* _____________________________________
 
@@ -836,29 +799,17 @@ section.bottom {
 }
 .bottom .content .dta h4 {
 	font-size: 27px;
-	font-family: Playfair+Display;
-	color: #fff;
-    -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
-    -moz-animation: neon1 1.5s ease-in-out infinite alternate;
-    animation: neon1 1.5s ease-in-out infinite alternate;
+	font-family: 'Pacifico', cursive;
 }
 .bottom .content .dta h3 {
 	font-size: 40px;
 	text-transform: uppercase;
-	color: #fff;
-    -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
-    -moz-animation: neon1 1.5s ease-in-out infinite alternate;
-    animation: neon1 1.5s ease-in-out infinite alternate;
 }
 .bottom .content .dta h2 {
 	font-size: 75px;
 	font-family: 'Playfair Display', serif;
 	font-weight: 900;
 	margin-top: 0;
-	color: #fff;
-    -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
-    -moz-animation: neon1 1.5s ease-in-out infinite alternate;
-    animation: neon1 1.5s ease-in-out infinite alternate;
 }
 .bottom .content .dta h6 {
 	font-size: 20px;
